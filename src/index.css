@@ -5,7 +5,7 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
+  color: rgb(255 255 255 / 0.87);
   background-color: #242424;
 
   font-synthesis: none;
@@ -21,6 +21,21 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover {
+  color: rgb(255 255 255);
+}
+
+.github-link {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  font-size: 1.5rem;
 }
 
 @media (prefers-color-scheme: light) {
