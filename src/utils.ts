@@ -12,6 +12,8 @@ export const generateChicken = () => {
     "cluck-a-buh-gawk",
     "cock-a-doodle-doo",
     "bwwwaaaaaaaaaak",
+    "gobble-gobble",
+    "honk",
   ];
   const PUNCTUATIONS = [".", "...", "!", "?"];
   const PARAGRAPH_SIZES = [15, 30, 75];
