@@ -5,3 +5,5 @@
 Chicken Chicken Chicken
 
 <sup><sub>turkey</sub></sup>
+
+As featured in ["I Quit my Programmer Job to Become a Chicken"](https://sebastiancarlos.medium.com/how-i-quit-my-programmer-job-to-become-a-chicken-b733c20680b1)
